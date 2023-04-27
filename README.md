@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/results?search_query=l1lgap](https://www.youtube.com/results?search_query=l1lgap)
 
-- 📝 I regularly [write my poetry in a private folder on my desktop.](write my poetry in a private folder on my desktop.)
+- 📝 I regularly [write poetry in a private folder on my desktop.]
 
 - 💬 Ask me about **what I like to do on my free time. i.e. tv shows, video games, riding my scooter/ebike.**
 
 - 📫 You can reach me at **gasparecarollo@pursuit.org**
 
-- 📄 Know about my experiences in [filmmaking, editing, and photoshop.](filmmaking, editing, and photoshop.)
+- 📄 Know about my experiences in [filmmaking, editing, and photoshop.]
 
 - ⚡ Fun fact: **I worked on a movie with Dan Fogler and Wallace Shawn.**
 
