@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact: **I worked on a movie with Dan Fogler and Wallace Shawn.**
 
-<iframe src="https://giphy.com/embed/ZcdJJvDqTgdGZK8Xd3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-fiber-optics-ZcdJJvDqTgdGZK8Xd3">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
