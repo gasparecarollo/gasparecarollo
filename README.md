@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaspare Carollo</h1>
 <h3 align="center">I'm a novice programmer at the Pursuit Fellowship.</h3>
 
+
+<p align="center"><img src=https://user-images.githubusercontent.com/128388442/235279262-a66417a4-abc6-47ef-bf5f-438c4cf5fa1a.gif width= "150" height="200"/> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasparecarollo&label=Profile%20views&color=0e75b6&style=flat" alt="gasparecarollo" /> </p>
 
 - 🔭 I’m currently working on **my GitHub Profile.**
@@ -45,4 +49,4 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/128388442/235056495-af55ad3d-c6ed-4291-8214-fac74b5989e0.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/128388442/235056495-af55ad3d-c6ed-4291-8214-fac74b5989e0.png" width="600" height="400"> 
