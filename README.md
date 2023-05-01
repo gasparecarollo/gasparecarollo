@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaspare Carollo</h1>
 <h3 align="center">I'm a novice programmer at the Pursuit Fellowship.</h3>
 
-
-<p align="center"><img src=https://user-images.githubusercontent.com/128388442/235279262-a66417a4-abc6-47ef-bf5f-438c4cf5fa1a.gif width= "150" height="200"/> </p>
-
+<p align="center"><img src=https://user-images.githubusercontent.com/128388442/235486280-395e797a-4926-42d2-b7d4-05f5bdcb3c87.gif width= "250" height="300"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasparecarollo&label=Profile%20views&color=0e75b6&style=flat" alt="gasparecarollo" /> </p>
 
@@ -27,7 +25,7 @@
 
 - ⚡ Fun fact: **I worked on a movie with Dan Fogler and Wallace Shawn.**
 
-
+<p align="center"><img src=https://user-images.githubusercontent.com/128388442/235279262-a66417a4-abc6-47ef-bf5f-438c4cf5fa1a.gif width= "150" height="200"/> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter.com/g_carollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/g_carollo" height="30" width="40" /></a>
