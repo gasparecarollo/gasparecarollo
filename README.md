@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasparecarollo&label=Profile%20views&color=0e75b6&style=flat" alt="gasparecarollo" /> </p>
 
+<About Me>
+  In my earlier years, I chased a dream in cinematography and my life became enriched with artistic and technical skills that I continue to use today. I love expressing profound art, leaving people astounded by the messages in my films, in awe of the aestethic appeal, handling of my characters, and enamored by my style of writing. I reached a personal milestone by landing my name and film credentials in IMDB. Today, I try to keep a social presence, and imprint in the digital media world with my Instagram, Youtube channel and Twitch streaming. 
+
+My passion for tech never subsided. If anything, it intensified. I tried breaking into the tech industry by applying and interviewing for various positions. My eagerness and desire to enter the tech force were met with being underqualified, and having limited resume experience. I left those interviews knowing my inner spark was dimming but I urged on keeping that flame inside from being put out. 
+
+I joined the Pursuit fellowship in March of 2023. Ready to finally steer my career in the direction I wanted and be able to own my pursuit. I’m currently learning the JavaScript programming coding language, sharpening my tech skills, and studying the front and back end of web development. With programming, I intend to keep creating art, incorporating art, poetry and multimedia in entertaining ways. Stay tuned because Gaspare (whichever way you prefer to pronounce it) will be unleashed and produce fascinating work! I look forward to meeting, and collaborating with future programmers. 
+
+
 - 🔭 I’m currently working on **my GitHub Profile.**
 
 - 🌱 I’m currently learning **the Javascript, and the Command line,**
